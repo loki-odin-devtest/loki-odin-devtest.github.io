@@ -42,3 +42,13 @@ h2 {
 .pad {
     padding: 10px;
 }
+
+.info {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bullet {
+    list-style-position: inside;
+}  
